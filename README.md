@@ -1,5 +1,8 @@
 # CSSMinifier
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![PHP](https://img.shields.io/badge/PHP-%3E%3D8.0-777BB4.svg)](https://www.php.net/)
+
 CSSMinifier is a compact, simple, and experimental tool crafted in PHP, designed for minifying CSS files. It strategically removes all unnecessary characters from your CSS code without compromising its functionality. The result is faster style loading, reduced bandwidth consumption, and consequently, enhanced user experience and SEO performance.
 
 ## Features
